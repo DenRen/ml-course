@@ -110,3 +110,13 @@ venv.bak/
 *__solved*
 *__draft*
 testing/
+week0_03_linear_classification/notMNIST_small
+week0_08_dropout_batchnorm/notMNIST_small
+week0_04_svm_and_pca/data
+week0_10_cnn/data*
+homeworks/lab02_deep_learning/fmnist/FashionMNIST
+week0_05_trees_and_ensembles/iris
+week0_05_trees_and_ensembles/telecom_churn.csv
+week0_08_dropout_batchnorm/mnist-470.pth
+week0_08_dropout_batchnorm/my_checkpint.pth
+week0_08_dropout_batchnorm/notMNIST_small.tar.gz
